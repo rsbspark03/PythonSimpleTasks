@@ -1,8 +1,6 @@
-x = 1234567899987654321
-#Long Version:
-#if x < 0:
-    #print('False')
+#Checks if integer "x" is a palindrome
 
+x = 1234567899987654321
 if (len(str(x)) % 2) == 1:
     y = str(x)
 
