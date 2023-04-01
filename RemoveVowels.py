@@ -1,4 +1,4 @@
-
+# A program that returns an inputted string without vowels.
 
 user = input("Enter string: ")
 #print(len(user))
