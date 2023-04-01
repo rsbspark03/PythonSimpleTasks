@@ -1,3 +1,5 @@
+#Checks if string "x" has a sequence of brackets that are in matching pairs (with correct syntax)
+
 x = "([]())"
 queue = []
 brackets = {
