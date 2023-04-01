@@ -1,4 +1,6 @@
-strs = ["run", "run", "rupo"]
+#Returns the longest common prefix in all of the members of the list "strs"
+
+strs = ["run", "runt", "rupo"]
 prefix = ''
 try:
     for i in range(len(strs[0])):
