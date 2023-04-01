@@ -1,3 +1,5 @@
+# Converts string of roman numeral "rno" to decimal "dno"
+
 rno = "LXII"
 dno = 0
 i = 0
