@@ -2,8 +2,8 @@ import time
 from matplotlib import pyplot as np
 import getpass
 
-% A game where the User enters a string "password" and then enters the time allowed to guess. 
-% Then after a countdown, the User gets the specified amount of time to guess the word. 
+# A game where the User enters a string "password" and then enters the time allowed to guess. 
+# Then after a countdown, the User gets the specified amount of time to guess the word. 
 
 password = getpass.getpass('Password:')
 t = float(input("Enter allowed time for guesser: "))
