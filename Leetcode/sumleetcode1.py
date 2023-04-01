@@ -1,3 +1,4 @@
+# Outputs a list containing the index of the elements in "nums" that add up in pairs to equal the "target" value
 
 nums = [2,3,4,1,5]
 target = 5
